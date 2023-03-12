@@ -3,6 +3,14 @@
 Converts speech using a microphone into text form, which returns the output to the clipboard.
 It was developed for use by [chat.openai]{https://chat.openai.com/}
 
+## Requirements
+
+You need to have PowerShell and Python with the following libraries installed to run successfully.
+`pip install threading`
+`pip install pyaudio`
+`pip install SpeechRecognition`
+`pip install Keyboard`
+
 ## Startup process
 
 Run the `speech_to_text.bat` file which activates the microphone in Windows and you can speak immediately.

@@ -1,6 +1,5 @@
 import threading
 import speech_recognition as sr
-import json
 import pyaudio
 import keyboard
 
