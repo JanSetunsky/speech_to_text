@@ -8,6 +8,7 @@ It was developed for use by [chat.openai]{https://chat.openai.com/}
 Tested on Windows 10.
 
 You need to have PowerShell and Python with the following libraries installed to run successfully.
+
 `pip install threading`
 
 `pip install pyaudio`
