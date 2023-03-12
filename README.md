@@ -1,7 +1,7 @@
 # speech_to_text
 
 Converts speech using a microphone into text form, which returns the output to the clipboard.
-It was developed for use by [chat.openai]{https://chat.openai.com/}
+It was developed for use by [chat.openai](https://chat.openai.com/)
 
 ## Requirements
 
