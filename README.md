@@ -21,7 +21,7 @@ You need to have PowerShell and Python with the following libraries installed to
 
 Run the `speech_to_text.bat` file which activates the microphone in Windows and you can speak immediately.
 Press ESC to stop recording.
-In a short time, the speech recognition process is completed and the content of the speech, converted to text, is automatically in your clipboard. You can then immediately paste it into the text area in your session [chat.openai]{https://chat.openai.com/}
+In a short time, the speech recognition process is completed and the content of the speech, converted to text, is automatically in your clipboard. You can then immediately paste it into the text area in your session [chat.openai](https://chat.openai.com/)
 This speeds up the process of communicating with AI and you don't have to pay flat fees.
 
 ## Settings
